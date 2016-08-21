@@ -2,4 +2,4 @@
 javascript bookmark for bilibili.com
 
 ## usage
-copy everything in the BiliMark-min.js into the location bar of your favorite browser, then bookmark it.
+make a random bookmark, then fill its 'location' with everything in BiliMark-min.js.
